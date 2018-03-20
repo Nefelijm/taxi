@@ -1,0 +1,25 @@
+{
+  "name": "fareEstimate",
+  "version": "1.0.0",
+  "description": "Realizar un estimador de tarifa de un viaje en Uber, utilizando la API de Google maps y la API de Uber. Para esto se tomó como referencia la página de Uber.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nefelijm/fareestimate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nefelijm/fareestimate/issues"
+  },
+  "homepage": "https://github.com/Nefelijm/fareestimate#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.15.1"
+  }
+}
