@@ -65,9 +65,6 @@ function initMap() {
       window.alert('No encontramos tu ruta');
     }	
     })
-
-
-
   };
 
   directionsDisplay.setMap(map);
